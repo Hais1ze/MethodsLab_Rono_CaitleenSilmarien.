@@ -1,4 +1,4 @@
-# MethodsLab_Ro-o_CaitleenSilmarien.
+# MethodsLab_Rono_CaitleenSilmarien.
 Description
 
 This Java program shows the use of methods, parameters, return values, loops, arrays, and conditional statements. 
