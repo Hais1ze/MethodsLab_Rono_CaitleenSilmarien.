@@ -1,7 +1,7 @@
 # MethodsLab_Ro-o_CaitleenSilmarien.
 Description
 
-This Java program demonstrates the use of methods, parameters, return values, loops, arrays, and conditional statements. 
+This Java program shows the use of methods, parameters, return values, loops, arrays, and conditional statements. 
 It performs basic mathematical operations and solves several number-related problems using separate methods.
 
 Methods Used
